@@ -13,23 +13,23 @@ export const metadata: Metadata = {
   title: 'The Coders Show — From Campus to Career',
   description:
     'The Coders Show is a student-led technology talk show bringing students closer to developers, founders, researchers, designers, and industry professionals through authentic conversations and practical insights.',
-  generator: 'v0.app',
+  
   icons: {
     icon: [
       {
-        url: '/tcs-logo.jpg',
+        url: 'public\images\tcs-logo.jpg',
         media: '(prefers-color-scheme: light)',
       },
       {
-        url: '/tcs-logo.jpg',
+        url: 'public\images\tcs-logo.jpg',
         media: '(prefers-color-scheme: dark)',
       },
       {
-        url: '/tcs-logo.jpg',
+        url: 'public\images\tcs-logo.jpg',
         type: 'image/svg+xml',
       },
     ],
-    apple: 'tcs-logo.jpg',
+    apple: 'public\images\tcs-logo.jpg',
   },
 }
 
