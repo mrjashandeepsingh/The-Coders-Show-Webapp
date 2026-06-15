@@ -17,12 +17,12 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: '/images/tcs-logo.jpg', 
+        url: 'https://i.ibb.co/hR1rP344/TCS-Logo.jpg', 
         sizes: 'any',
       },
     ],
     apple: {
-      url: '/images/tcs-logo.jpg',
+      url: 'https://i.ibb.co/hR1rP344/TCS-Logo.jpg',
       sizes: '180x180',
     },
   },
