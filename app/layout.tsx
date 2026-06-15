@@ -17,19 +17,14 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        href: 'public\images\tcs-logo.jpg',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        href: 'public\images\tcs-logo.jpg',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        href: 'public\images\tcs-logo.jpg',
-        type: 'image/svg+xml',
+        url: '/images/tcs-logo.jpg', 
+        sizes: 'any',
       },
     ],
-    apple: 'public\images\tcs-logo.jpg',
+    apple: {
+      url: '/images/tcs-logo.jpg',
+      sizes: '180x180',
+    },
   },
 }
 
