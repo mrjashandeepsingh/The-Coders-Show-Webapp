@@ -17,15 +17,15 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: 'public\images\tcs-logo.jpg',
+        href: 'public\images\tcs-logo.jpg',
         media: '(prefers-color-scheme: light)',
       },
       {
-        url: 'public\images\tcs-logo.jpg',
+        href: 'public\images\tcs-logo.jpg',
         media: '(prefers-color-scheme: dark)',
       },
       {
-        url: 'public\images\tcs-logo.jpg',
+        href: 'public\images\tcs-logo.jpg',
         type: 'image/svg+xml',
       },
     ],
