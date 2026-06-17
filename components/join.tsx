@@ -50,7 +50,7 @@ export function Join() {
         <Reveal delay={120}>
           <div className="mt-10 flex flex-col gap-3 sm:flex-row">
             <a
-              href="https://forms.gle/W9K1WYcpUCUzLPPn8"
+              href="https://forms.gle/AViCHsxcRsS29NRr9"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex h-11 items-center justify-center rounded-sm bg-background px-6 text-sm font-medium text-foreground transition-opacity hover:opacity-90"
